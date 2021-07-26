@@ -1,0 +1,88 @@
+---
+title: Introducción al R
+subtitle: V Jornadas Paraguayas de Mastozoología
+date: '2021'
+output: pdf_document
+fontsize: 11pt
+---
+
+------------------------------------------------------------------------
+
+## Sobre el curso
+
+### ¿De qué se trata el curso?
+
+Este es un minicurso de introducción a la programación en R para análisis de datos biológicos. Se realiza de forma virtual y contará con ejercicios durante las clases. Es un curso intensivo y desafiante que invita al estudiante a pensar y desarrollar algoritmos para el análisis de datos biológicos. Específicamente, el curso tiene como objetivo enseñar a los participantes a:
+
+(a) desarrollar e interpretar scripts R
+
+(b) importar y manipular datos
+
+(c) describir y visualizar datos
+
+Subiremos los videos de las clases al canal de youtube [\@somaquadrados](https://www.youtube.com/channel/UC8_OHjnszxRiit92ZJlNH4A). El material escrito, diapositivas, scripts y tareas estarán disponibles en el repositorio de "Soma dos Quadrados" ([github.com/Soma-dos-Quadrados/introduccionalR](https://github.com/Soma-dos-Quadrados/introduccionalR)). Las clases son sincrónicas y se impartirán durante las V Jornadas Paraguayas de Mastrozoología.
+
+### Público
+
+El curso está dirigido a estudiantes de grado, pós-grado, técnicos y investigadores interesados en aprender a utilizar R para el análisis de datos biológicos. Es un curso introductorio que trabajará con la importación, manipulación y análisis descriptivo y visual de datos biológicos.
+
+El cupo máximo es de 20 personas.
+
+## Responsables
+
+Eliana Burgos ([efburgos@conicet.gov.ar](efburgos@conicet.gov.ar))
+
+Marília Melo Favalesso ([mariliabioufpr@gmail.com](mariliabioufpr@gmail.com))
+
+## Carga horaria
+
+15h
+
+## Enmienda
+
+- Introducción a R y R Studio
+- Objetos y atribuciones
+- Funciones
+- Importación de bases de datos para el R
+- Manipulación de datos
+- Estadística descriptiva: medidas de posición
+- Estadística descriptiva: medidas de dispersión
+- Estadísticas descriptivas: las frecuencias
+- Gráficos
+
+
+## Referencias
+
+**(Todos los libros de referencia de este curso tienen copias para distribución gratuita).**
+
+Aragón TJ. (2017) [**Population Health Data Science with R: *Transforming data into actionable knowledge***](https://bookdown.org/medepi/phds/)*.*
+
+Chang W. (2013) [**R Graphics Cookbook: Practical Recipes for Visualizing Data**](http://www.cookbook-r.com/Graphs/). O'Reilly Media.
+
+Gillespie C, Lovelace R. (2021) [**Efficient R Programming: A pratical guide to smarter programming**](https://csgillespie.github.io/efficientR/). O'Reilly Media.
+
+Grolemund G. (2014) [**Hands-On Programming with R**](https://rstudio-education.github.io/hopr/). O'Reilly Media.
+
+Healy K. (2018) [**Data visualization: A practical introduction**](https://socviz.co/). Princeton University Press.
+
+Holmes S, Huber W. (2018) [**Modern Statistics for Modern Biology**](https://web.stanford.edu/class/bios221/book/). Cambridge.
+
+Irizarry RA. (2021) [**Introducción a la ciencia de datos: *Análisis de datos y algoritmos de predicción con R***](https://rafalab.github.io/dslibro/)*.* CRC Press.
+
+Irizarry RA, Love MI. (2015) [**Data analysis for the life sciences**](https://leanpub.com/dataanalysisforthelifesciences). Leanpub.
+
+Peng RD. (2016a) [**Exploratory Data Analysis with R**](https://leanpub.com/exdata). Leanpub.
+
+Peng RD. (2016b) [**Report Writing for Data Science in R**](https://leanpub.com/reportwriting). Leanpub.
+
+Venables WN, Smith DM. (2021) [**An introduction to R**](https://cran.r-project.org/doc/manuals/R-intro.pdf). R Core Team.
+
+Wickham H. (2016) [**ggplot2: Elegant Graphics for Data Analysis (Use R)**](https://ggplot2-book.org/). Spring.
+
+Wickham H, Grolemund G. (2014) [**R for Data Science: Import, Tidy, Transform, Visualize, and Model Data**](https://r4ds.had.co.nz/). O'Reilly Media.
+
+Wilke CO. (2019) [**Fundamentals of Data Visualization**](https://clauswilke.com/dataviz/).O'Reilly Media.
+
+Wright C, Ellis SE, Hicks SC, Peng RD. (2021) [**Tidyverse Skills for Data Science in R**](https://jhudatascience.org/tidyversecourse/). Johns Hopkins University.
+
+
